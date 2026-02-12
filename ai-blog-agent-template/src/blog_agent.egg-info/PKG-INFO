@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: blog-agent
+Version: 0.1.0
+Summary: AI Agent Blog Planner & Writer (LangGraph + Streamlit)
+Requires-Python: >=3.10

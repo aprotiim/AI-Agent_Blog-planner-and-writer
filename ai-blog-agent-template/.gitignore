@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+outputs/cache/
+outputs/images/
+outputs/blogs/
+outputs/plans/
+outputs/evidence/
+*.png
+*.jpg
+*.jpeg
