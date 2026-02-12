@@ -209,8 +209,8 @@ This is more than a portfolio piece—it's a production-ready tool that demonstr
 
 **Aprotiim** 
 - GitHub: [@aprotiim](https://github.com/aprotiim)
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/aprotiim-joardar-595074118/)
+- Email:aprotiim@gmail.com
 
 ---
 
