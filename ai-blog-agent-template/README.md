@@ -194,30 +194,3 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Why I Built This
-
-As a developer passionate about practical AI applications, I wanted to solve a real problem: **content creation at scale without sacrificing quality**. This project combines:
-
-- **Software Engineering:** Clean architecture, async programming, testing
-- **AI/ML:** Prompt engineering, agent orchestration, RAG patterns
-- **Product Thinking:** Solving real user needs with measurable impact
-
-This is more than a portfolio piece—it's a production-ready tool that demonstrates how AI can augment human creativity rather than replace it.
-
-## 📫 Contact
-
-**Aprotiim** 
-- GitHub: [@aprotiim](https://github.com/aprotiim)
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-
----
-
-<div align="center">
-
-**If this project helped you or you learned something from it, please ⭐ star the repo!**
-
-*Built with ❤️ and lots of ☕*
-
-</div>
